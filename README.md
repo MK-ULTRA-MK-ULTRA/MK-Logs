@@ -14,13 +14,9 @@ sudo python3 mk-logs.py
 
 ## Screenshots
 
-<!-- 1. Take a screenshot of the tool (menu, a scan result, etc.)
-     2. Save it into the screenshots/ folder, e.g. screenshots/menu.png
-     3. Make sure the filename below matches. Delete these comments when done. -->
+![MK-logs main menu](menu.png)
 
-![MK-logs main menu](screenshots/menu.png)
-
-![MK-logs scan results](screenshots/scan.png)
+![MK-logs scan results](scan.png)
 
 ---
 
@@ -51,8 +47,8 @@ Most log tools flag everything: every sudo command, every firewall block, every 
 ## Install
 
 ```bash
-git clone https://github.com/MK-ULTRA-MK-ULTRA/MK-logs.git
-cd MK-logs
+git clone https://github.com/MK-ULTRA-MK-ULTRA/MK-Logs.git
+cd MK-Logs
 sudo python3 mk-logs.py
 ```
 
